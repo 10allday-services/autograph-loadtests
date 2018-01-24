@@ -1,0 +1,9 @@
+README.md
+.DS_Store
+*.sw[op]
+venv
+run*
+install.rdf
+__pycache__
+*.BAK
+.gitignore

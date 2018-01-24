@@ -1,0 +1,8 @@
+.DS_Store
+*.sw[op]
+venv
+run*
+install.rdf
+__pycache__
+sign.py
+*.BAK
