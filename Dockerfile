@@ -1,4 +1,4 @@
-# Mozilla AutoPush Load-Tester
+# Mozilla Autograph API / load tester
 
 FROM python:3.5-slim
 
